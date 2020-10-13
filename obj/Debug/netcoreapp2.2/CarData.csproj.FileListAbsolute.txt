@@ -1,0 +1,14 @@
+C:\Users\sunny.kumar\source\repos\CarData\CarData\bin\Debug\netcoreapp2.2\CarData.deps.json
+C:\Users\sunny.kumar\source\repos\CarData\CarData\bin\Debug\netcoreapp2.2\CarData.runtimeconfig.json
+C:\Users\sunny.kumar\source\repos\CarData\CarData\bin\Debug\netcoreapp2.2\CarData.runtimeconfig.dev.json
+C:\Users\sunny.kumar\source\repos\CarData\CarData\bin\Debug\netcoreapp2.2\CarData.dll
+C:\Users\sunny.kumar\source\repos\CarData\CarData\bin\Debug\netcoreapp2.2\CarData.pdb
+C:\Users\sunny.kumar\source\repos\CarData\CarData\obj\Debug\netcoreapp2.2\CarData.csprojAssemblyReference.cache
+C:\Users\sunny.kumar\source\repos\CarData\CarData\obj\Debug\netcoreapp2.2\CarData.csproj.CoreCompileInputs.cache
+C:\Users\sunny.kumar\source\repos\CarData\CarData\obj\Debug\netcoreapp2.2\CarData.RazorAssemblyInfo.cache
+C:\Users\sunny.kumar\source\repos\CarData\CarData\obj\Debug\netcoreapp2.2\CarData.RazorAssemblyInfo.cs
+C:\Users\sunny.kumar\source\repos\CarData\CarData\obj\Debug\netcoreapp2.2\CarData.AssemblyInfoInputs.cache
+C:\Users\sunny.kumar\source\repos\CarData\CarData\obj\Debug\netcoreapp2.2\CarData.AssemblyInfo.cs
+C:\Users\sunny.kumar\source\repos\CarData\CarData\obj\Debug\netcoreapp2.2\CarData.RazorTargetAssemblyInfo.cache
+C:\Users\sunny.kumar\source\repos\CarData\CarData\obj\Debug\netcoreapp2.2\CarData.dll
+C:\Users\sunny.kumar\source\repos\CarData\CarData\obj\Debug\netcoreapp2.2\CarData.pdb
